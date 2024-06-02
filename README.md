@@ -47,6 +47,6 @@ https://github.com/sourav-007/Project-Management-Portal/assets/78247313/924a1c7e
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souravsaha21/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulsingh-2k1/)
 
 
