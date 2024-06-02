@@ -24,7 +24,7 @@ function LoginSignup() {
 
     const handleLogin = async (email, password) => {
         try {
-            const response = await axios.post('http://localhost:3001/login', {
+            const response = await axios.post('https://project-management-portal-two.vercel.app/login', {
                 email,
                 password
             });
